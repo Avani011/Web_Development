@@ -1,0 +1,11 @@
+a:hover{
+    color: red;
+    text-decoration: dashed;
+}
+
+/*TO select all elements and attributes*/
+body h1+p .special{
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+}

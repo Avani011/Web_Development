@@ -1,0 +1,7 @@
+span.special, li.special{
+    color: chartreuse;
+    font-weight: bold;
+}
+li em{
+    color: orange;
+}

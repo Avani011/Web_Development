@@ -1,0 +1,9 @@
+/*li[class]{
+    font-size: 300%;
+}
+li[class = "a"]{
+    color: blue;
+}*/
+li[class ~="a"]{                          /*select all the elements which have class*/
+    color: chocolate;
+}
